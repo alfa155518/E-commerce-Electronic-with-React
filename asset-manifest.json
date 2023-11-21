@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/E-commerce-Electronic-with-React/static/css/main.4d02c969.css",
+    "main.js": "/E-commerce-Electronic-with-React/static/js/main.0c24de1f.js",
+    "static/media/Multi-Banner-5.webp": "/E-commerce-Electronic-with-React/static/media/Multi-Banner-5.e5896add99d2449723ab.webp",
+    "static/media/slide-1.webp": "/E-commerce-Electronic-with-React/static/media/slide-1.c4a81f50b414c8a83765.webp",
+    "static/media/p10.jpg": "/E-commerce-Electronic-with-React/static/media/p10.6327e864f1cfccbf1331.jpg",
+    "static/media/p9.jpg": "/E-commerce-Electronic-with-React/static/media/p9.394eb27873c9761dfb2a.jpg",
+    "static/media/p4.webp": "/E-commerce-Electronic-with-React/static/media/p4.33384b721d3f320e793c.webp",
+    "static/media/p8.webp": "/E-commerce-Electronic-with-React/static/media/p8.33384b721d3f320e793c.webp",
+    "static/media/p1.webp": "/E-commerce-Electronic-with-React/static/media/p1.a6e665068f84942d1803.webp",
+    "static/media/p11.jpg": "/E-commerce-Electronic-with-React/static/media/p11.baa757c719c0f70c88bf.jpg",
+    "static/media/p6.webp": "/E-commerce-Electronic-with-React/static/media/p6.a6b9fe6030a23712b293.webp",
+    "static/media/p2.webp": "/E-commerce-Electronic-with-React/static/media/p2.7a0e6f59a46805604183.webp",
+    "static/media/p5.webp": "/E-commerce-Electronic-with-React/static/media/p5.6c123010879ff03013a2.webp",
+    "static/media/shop_left.avif": "/E-commerce-Electronic-with-React/static/media/shop_left.363c4be2212f23b4b6a0.avif",
+    "static/media/p7.webp": "/E-commerce-Electronic-with-React/static/media/p7.8a2f088d2d5a35d430e1.webp",
+    "static/media/p3.webp": "/E-commerce-Electronic-with-React/static/media/p3.e82488caad3ffd7af3fa.webp",
+    "static/media/T1.avif": "/E-commerce-Electronic-with-React/static/media/T1.60c99ecd462f3479a059.avif",
+    "static/media/logo.webp": "/E-commerce-Electronic-with-React/static/media/logo.796d25da868df8ee3227.webp",
+    "index.html": "/E-commerce-Electronic-with-React/index.html",
+    "main.4d02c969.css.map": "/E-commerce-Electronic-with-React/static/css/main.4d02c969.css.map",
+    "main.0c24de1f.js.map": "/E-commerce-Electronic-with-React/static/js/main.0c24de1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d02c969.css",
+    "static/js/main.0c24de1f.js"
+  ]
+}
